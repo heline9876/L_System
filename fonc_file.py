@@ -41,7 +41,7 @@ def read_content(content):
                 rules[key] = value
         elif "start point" in content[i]:
             start_point = content[i + 1].split(",")
-            start_point[0], start_point[1] = int(start_point[0]), int(start_point[1])
+            start_point[0], start_point[1] = float(start_point[0]), float(start_point[1])
     
     App.insert_info(l_string=axiom, rules_list=rules_list, rotate=rotate, number_of_iteration=iteration, line_length=line_length, start_point=start_point)
     turtle_interprate(l_string=axiom, rules=rules, rotate=rotate, number_of_iteration=iteration, line_length=line_length, start_point=start_point)
