@@ -1,0 +1,1 @@
+{"axiom": "FX", "line_length": 3.0, "rotate": 90.0, "iteration": 15, "rules": ["Y:-FX-Y", "X:X+YF+"], "start_point": [-300.0, -50.0]}

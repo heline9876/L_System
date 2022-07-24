@@ -1,0 +1,1 @@
+{"axiom": "VZFFF", "line_length": 15.0, "rotate": 20.0, "iteration": 10, "rules": ["V:[+++W][---W]YV", "W:+X[-W]Z", "X:-W[+X]Z", "Y:YZ", "Z:[-FFF][+FFF]F"], "start_point": [0.0, -400.0]}

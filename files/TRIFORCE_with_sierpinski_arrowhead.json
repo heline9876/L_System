@@ -1,0 +1,1 @@
+{"axiom": "YF", "line_length": 4.0, "rotate": 60.0, "iteration": 8, "rules": ["Y:XF-YF-X", "X:YF+XF+Y"], "start_point": [400.0, -500.0]}
